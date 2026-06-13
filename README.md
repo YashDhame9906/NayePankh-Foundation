@@ -76,30 +76,7 @@ NayePankh-Foundation/
 ├── script.js
 │
 └── assets/
-    │
-    ├── images/
-    │   ├── logo.png
-    │   ├── hero-image.jpg
-    │   ├── about-image.jpg
-    │   ├── impact-bg.jpg
-    │   │
-    │   ├── initiatives/
-    │   │   ├── education.jpg
-    │   │   ├── hunger.jpg
-    │   │   ├── hygiene.jpg
-    │   │   ├── clothes.jpg
-    │   │   └── welfare.jpg
-    │   │
-    │   └── gallery/
-    │       ├── education.jpg
-    │       ├── food-drive.jpg
-    │       ├── volunteers.jpg
-    │       ├── hygiene.jpg
-    │       ├── clothes.jpg
-    │       └── events.jpg
-    │
-    └── screenshots/
-        └── homepage.png
+ 
 ```
 
 ---
