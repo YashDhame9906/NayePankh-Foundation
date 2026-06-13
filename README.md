@@ -8,7 +8,7 @@ The project aims to create a better digital presence for the organization by foc
 
 ## 🌐 Live Demo
 
-🔗 Add your Netlify/Vercel deployment link here
+[🔗 Add your Netlify/Vercel deployment link here](https://yashdhame9906.github.io/NayePankh-Foundation/)
 
 
 ---
