@@ -2,7 +2,7 @@
 
 A modern, responsive, and visually engaging NGO website redesign built for **NayePankh Foundation** using HTML, CSS, and JavaScript.
 
-The project aims to create a better digital presence for the organization by focusing on emotional storytelling, modern UI design, smooth user experience, and mobile responsiveness.
+The project aims to create a better digital presence for the organization by focusing on emotional storytelling, modern UI design, smooth user experience, Dark mode and mobile responsiveness.
 
 ---
 
